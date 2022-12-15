@@ -1068,6 +1068,7 @@ _ [ ayush Z] @ devsocPI
 - [Kumar Kashyap@devsoc](https://github.com/KashyapJod)
 - [Benny Tso](https://github.com/bennytso88)
 - [Jonas Engström](https://github.com/takirami)
+- [Rodrigo Carahuanco](https://github.com/rodrigocarahuanco)    
 - [kartavya@devsoc](https://github.com/Chrollucilfer)
 - [Kumar Kashyap](https://github.com/KashyapJod)@devsoc
 - [Divyam Joshi](https://github.com/iamgroot9)@devsoc
