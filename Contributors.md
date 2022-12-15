@@ -23,6 +23,7 @@
 - [Pratik Ghosh]
 -[Muhammad Saad]
 - Arman Kumar Jena
+- [Rodrigo Carahuanco](https://github.com/rodrigocarahuanco)
 - [Alon Katz](https://github.com/AlonKz1)
 - [Prajwal Dhungana](https://github.com/PrajwalDhungana)
 - [Overlrd](https://github.com/Overlrd)
